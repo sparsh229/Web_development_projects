@@ -1,2 +1,2 @@
 # Web_development_projects
-All the web development projects done till now
+Udemy course for full stack web development projects
